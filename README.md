@@ -48,7 +48,7 @@ LANGCHAIN_TRACING_V2=true
 LANGCHAIN_API_KEY=your-langsmith-api-key  # 본인의 langsmith key 넣기
 LANGCHAIN_PROJECT=gemini-travel-planner   # 프로젝트 이름 (원하는 대로)
 ```
-## llm 수행하는 코드 위쪽에 추가할 코드
+## LLM 수행하는 코드 위쪽에 추가할 코드
 ```
 import os
 from dotenv import load_dotenv
