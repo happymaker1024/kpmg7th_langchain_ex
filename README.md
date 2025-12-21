@@ -1,5 +1,4 @@
-# langchain_basic_class_5th
-langchain_basic_class_5th
+# langchain_basic_class_7th
 
 # 가상환경 만들고, 활성화
 ```
